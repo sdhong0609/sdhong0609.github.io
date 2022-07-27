@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Seongdeok Hong"
+name                     : "sdhong0609"
 description              : "An amazing website."
 url                      : "https://sdhong0609.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
