@@ -24,4 +24,4 @@ JVM을 사용하는 프로그램에는 동적 메모리 영역의 객체가 사�
 <br>
 <br>
 <br>
-참조 : Do it! 코틀린 프로그래밍
+[출처 : Do it! 코틀린 프로그래밍](http://www.yes24.com/Product/Goods/74035266)
