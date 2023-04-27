@@ -35,6 +35,7 @@ Intellij IDE 좌측 사이드바에서 보면 src폴더 안에 default 패키지
 <br>
 
 **사용자 클래스 가져오기**
+
 직접 만든 사용자 클래스를 다른 패키지에서 사용하려면 패키지의 이름과 함께 패키지의 요소를 import 키워드와 함께 적으면 된다. 아래 그림은 com.example.edu 패키지에 포함된 Person 클래스를 chap02.section1 패키지의 UserClassImport.kt에 가져온 것.
 ![chapter02-section01-04](/images/2023-04-27-chapter02-section01/2023-04-27-chapter02-section01-04.png)
 하지만 이곳에 같은 이름의 클래스(Person)이 있는 경우에는 as라는 키워드를 이용해 클래스 이름에 별명을 붙여 사용하면 충돌을 피할 수 있다.
