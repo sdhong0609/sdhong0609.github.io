@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Chapter 01 코틀린 시작하기 배운 것 정리"
+title:  "공부 정리: Chapter 01 코틀린 시작하기"
 categories: [Kotlin Basic, ]
 tag: [kotlin]
 ---
@@ -61,4 +61,4 @@ main() 메서드를 다시 한번 살펴보자. static은 이 메서드가 정�
 <br>
 <br>
 <br>
-[출처 : Do it! 코틀린 프로그래밍](http://www.yes24.com/Product/Goods/74035266)
+[참고 : Do it! 코틀린 프로그래밍](http://www.yes24.com/Product/Goods/74035266)
