@@ -10,7 +10,7 @@ tag: [cs]
 프로그램이 사용하는 메모리 영역에는 여러 가지가 있다.
 <br>
 <br>
-<img src="./images/../../images/program_memory_area/program_memory_area.png" width="50%" height="50%"/>
+<img src="/images/program_memory_area/program_memory_area.png" width="50%" height="50%"/>
 <br>
 * 코드 영역(Code): 코드(Code) 영역에는 명령어가 들어간다.
 * 데이터 영역(Data): 프로그램이 컴파일되면 정적 변수나 문자열 등이 들어가는 정적 메모리 영역인 데이터(Data) 영역이 있다. JVM에서는 이 영역을 메서드 정적 영역(Method Static Area)이라고도 부른다.
@@ -25,7 +25,9 @@ tag: [cs]
 JVM을 사용하는 프로그램에는 동적 메모리 영역의 객체가 사용된 뒤 아무 참조가 없으면 자동으로 삭제하는 GC(Garbage Collector)가 있다. 쓸모없는 객체를 치워 주는 일을 한다.
 <br>
 <br>
-<img src="./images/../../images/program_memory_area/program_memory_area_2.png"/>
+
+![program_memory_area_2](/images/program_memory_area/program_memory_area_2.png)
+
 <br>
 <br>
 <br>
